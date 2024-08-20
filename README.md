@@ -40,7 +40,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - Thanks to [30 Days of Flutter](https://youtube.com/playlist?list=PLB6lc7nQ1n4jCBkrirvVGr5b8rC95VAQ5) for the tutorial inspiration.
-
----
-
-Feel free to customize this template further based on specific features, screenshots, or acknowledgments relevant to your project.
