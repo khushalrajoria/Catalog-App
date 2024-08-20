@@ -26,8 +26,13 @@ Ensure you have Flutter installed and set up on your machine.
 - [VelocityX](https://pub.dev/packages/velocity_x)
 
 ## Screenshots
+###Home Page
 ![catalog](https://github.com/user-attachments/assets/e5c7aa47-3163-4af0-907a-eef35ba4d187)
+
+###Login Page
 ![catalog2](https://github.com/user-attachments/assets/fb5906f9-b0f4-45e7-9800-58f276a2b9f8)
+
+### Item page
 ![catalo1](https://github.com/user-attachments/assets/928eca95-56bc-49d2-b68c-70d5f6c4499d)
 
 
