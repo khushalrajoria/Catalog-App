@@ -1,7 +1,3 @@
-Sure, here's a basic README template you can use for your 'Catalog-App' repository:
-
----
-
 # Catalog App
 
 This Flutter application demonstrates the implementation of a catalog app using velocity x for state management. It is based on a 30-day Flutter YouTube tutorial.
