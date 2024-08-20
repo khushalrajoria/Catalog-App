@@ -35,6 +35,7 @@ Ensure you have Flutter installed and set up on your machine.
 ### Item Page
 ![catalo1](https://github.com/user-attachments/assets/928eca95-56bc-49d2-b68c-70d5f6c4499d)
 
+(It is shown in dark mode, as this app has both dark and light theme)
 
 ## Contributing
 
